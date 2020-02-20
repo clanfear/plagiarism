@@ -1,0 +1,11 @@
+Starting Report Files
+Starting to Load and Hash-Code Documents
+Loading C:\Users\cclan\Desktop\plagiarism\matsueda.txt
+Loading C:\Users\cclan\Desktop\plagiarism\tarka.txt
+Done Loading Documents
+Starting to Compare Documents
+Comparing Documents, 1 Completed
+Match: 1986	1986	1986	C:\Users\cclan\Desktop\plagiarism\tarka.txt	C:\Users\cclan\Desktop\plagiarism\matsueda.txt
+Done Comparing Documents
+Finishing Report Files
+Done. Total CPU Time: 0.081 seconds
